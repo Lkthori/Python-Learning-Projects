@@ -1,5 +1,5 @@
 import os   # Used to interact with the operating system, such as working with file paths and directories.
-import json # Used to create and write a JSON metadata file. O QUE É JSON METADATA FILE?
+import json # Used to create and write a JSON metadata file.
 import shutil   # Used to copy and delete directories and files.
 from subprocess import PIPE, run    # Used to execute system commands (in this case, compiling Go code).
 import sys  # Used to get command-line arguments.
