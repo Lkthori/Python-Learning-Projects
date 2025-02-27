@@ -1,3 +1,3 @@
-Small Python Projects.\n
-Used for learning Python.\n
-Source - TechWithTim (Youtube)
+# Small Python Projects
+# Used to learn Python
+# Source - TechWithTim (Youtube)
