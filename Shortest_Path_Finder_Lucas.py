@@ -64,7 +64,7 @@ def find_path(maze,stdscr):
 
         stdscr.clear()  # Clear the screen before drawing the maze
         print_maze(maze, stdscr, path)  # Print the maze with the current path
-        # time.sleep(0.2)  # Pause for visualization
+        time.sleep(0.2)  # Pause for visualization
         stdscr.refresh()  # Refresh the screen to update the displayed maze
 
         if maze[row][col] == "X":  # If end is reached, return the path
