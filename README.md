@@ -1,5 +1,5 @@
 # Small Python Projects
-Used to learn Python
+Projects to learn Python
 
 1 - Shortest Path Finder
 2 - Currency_Converter
